@@ -1,0 +1,24 @@
+Write a menu-driven interactive console based C++ application to perform temperature values 
+manipulations. There has to be a provision for conversion of temperature values from one unit to 
+other units. 
+
+Add the facility to accept 24 temperature values on one particular day for a city. Repeat this data input 
+process of one city, for multiple cities. The city can be a capital city and for such city you have to 
+maintain data about the state for which it is capital. For capital city data from multiple locations needs 
+to be gathered (you are free to decide any number more than one location, typically 4 locations). 
+Additionally, keep the provision to maintain the temperature data values for more than one cities, for 
+future use, such that: 
+
+a) Display all cities with city name along with minimum, maximum and average temperature 
+values for individual city. 
+
+b) Sort temperature data as per user choice, i.e. either min, max or average temperature of 
+all cities,
+ 
+c) search temperature values for a particular city,
+ 
+d) update temperature values for a particular city and 
+ 
+e) delete an unwanted complete record of a particular city. 
+
+Note: The project must involve dynamic polymorphism of some kind.
