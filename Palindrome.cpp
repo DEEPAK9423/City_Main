@@ -10,5 +10,5 @@ bool isPalindrome(string s){
     if(s[i++]!=s[j--]) return false;
     else continue;
   }
-  return false;
+  return true;
 }
